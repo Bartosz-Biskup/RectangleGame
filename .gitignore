@@ -9,6 +9,9 @@ __pycache__/
 # Mac0S ds store
 .DS_Store
 
+# Pycharm
+./idea
+
 # Distribution / packaging
 .Python
 build/
